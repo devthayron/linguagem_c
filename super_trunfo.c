@@ -4,7 +4,7 @@
 struct cartao{
     char estado;
     char codigo[4];
-    char nome_cidade[20];
+    char nome_cidade[50];
     int populacao;
     float area;
     float pib;
